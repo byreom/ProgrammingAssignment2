@@ -1,4 +1,4 @@
-#Assingment 2
+#ASSINGNMENT 2
 
 #Building the functions
 
